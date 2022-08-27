@@ -1,2 +1,2 @@
 👋 Hi, I’m @phansongchan.
-I usually code in JVM languages.
+I usually code in Java.
