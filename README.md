@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/VbB7rJvMgPPhM0KPub/giphy.gif](https://images2.alphacoders.com/905/905124.png)" width="100"/>
-</div>
-
 <h1>
   👋 Hi, I’m @phansongchan!
 </h1>
