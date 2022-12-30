@@ -1,0 +1,3 @@
+// Scala, Groovy
+- as assert const def goto in	instanceof native strictfp threadsafe transient volatile
+- abstract def forSome implicit lazy match object override sealed trait type val var with yield
